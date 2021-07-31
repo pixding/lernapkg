@@ -1,5 +1,5 @@
 {
-  "name": "uniapp",
+  "name": "uniapp-pixding",
   "version": "0.0.1",
   "description": "uniapp",
   "keywords": [
@@ -17,7 +17,8 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "echo \"uniapp build\""
   },
   "dependencies": {
     "webpack": "5"
