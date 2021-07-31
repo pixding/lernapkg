@@ -1,0 +1,22 @@
+{
+  "name": "xxx",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "dingjian13 <dingjian13@meituan.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/xxx.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "webpack": "3"
+  }
+}
