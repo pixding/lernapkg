@@ -1,12 +1,11 @@
 {
-  "private": true,
-  "name": "xxx-pixding",
+  "name": "aaa",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "dingjian13 <dingjian13@meituan.com>",
-  "homepage": "",
+  "homepage": "https://github.com/pixding/lernapkg#readme",
   "license": "ISC",
-  "main": "lib/xxx.js",
+  "main": "lib/aaa.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -14,8 +13,15 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixding/lernapkg.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/pixding/lernapkg/issues"
   },
   "dependencies": {
     "webpack": "3"

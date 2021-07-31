@@ -1,6 +1,6 @@
 {
   "name": "uniapp-pixding",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "uniapp",
   "keywords": [
     "uniapp"
@@ -21,6 +21,8 @@
     "build": "echo \"uniapp build\""
   },
   "dependencies": {
+    "react": "^17.0.2",
+    "vuepress": "^1.8.2",
     "webpack": "5"
   }
 }
