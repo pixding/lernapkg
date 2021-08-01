@@ -1,6 +1,6 @@
 {
   "name": "uniapp-pixding",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "uniapp",
   "keywords": [
     "uniapp"
@@ -24,5 +24,6 @@
     "react": "^17.0.2",
     "vuepress": "^1.8.2",
     "webpack": "5"
-  }
+  },
+  "gitHead": "010182806e97931623397fa83b2cb2604da188cd"
 }

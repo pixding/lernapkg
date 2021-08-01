@@ -1,6 +1,6 @@
 {
-  "name": "aaa",
-  "version": "1.0.1",
+  "name": "aaa-pixding",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "dingjian13 <dingjian13@meituan.com>",
   "homepage": "https://github.com/pixding/lernapkg#readme",
@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "webpack": "3"
-  }
+  },
+  "gitHead": "010182806e97931623397fa83b2cb2604da188cd"
 }
